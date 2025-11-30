@@ -57,3 +57,8 @@ print(user1.signup())
 user1.show_user()
 
 print(user1.login())
+
+user2 = signUpUser()
+print(user2.signup())
+user2.show_user()
+
